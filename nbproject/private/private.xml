@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/FPT%20University/LAb231/Submit/HotelBooking/src/java/phuclh/controllers/UpdateCartServlet.java</file>
+            <file>file:/D:/FPT%20University/LAb231/Submit/HotelBooking/src/java/phuclh/controllers/SelectRoomServlet.java</file>
+            <file>file:/D:/FPT%20University/LAb231/Submit/HotelBooking/src/java/phuclh/controllers/BookingRoomServlet.java</file>
+            <file>file:/D:/FPT%20University/LAb231/Submit/HotelBooking/src/java/phuclh/controllers/GetCodeByEmailServlet.java</file>
+            <file>file:/D:/FPT%20University/LAb231/Submit/HotelBooking/src/java/phuclh/daos/PromotionDAO.java</file>
+            <file>file:/D:/FPT%20University/LAb231/Submit/HotelBooking/src/java/phuclh/daos/HotelDAO.java</file>
+            <file>file:/D:/FPT%20University/LAb231/Submit/HotelBooking/src/java/phuclh/utils/HelpUtls.java</file>
+            <file>file:/D:/FPT%20University/LAb231/Submit/HotelBooking/src/java/phuclh/controllers/CreateUserServlet.java</file>
+            <file>file:/D:/FPT%20University/LAb231/Submit/HotelBooking/src/java/phuclh/daos/EmailDAO.java</file>
+            <file>file:/D:/FPT%20University/LAb231/Submit/HotelBooking/src/java/phuclh/daos/UserDAO.java</file>
+            <file>file:/D:/FPT%20University/LAb231/Submit/HotelBooking/src/java/phuclh/daos/OrderDAO.java</file>
+            <file>file:/D:/FPT%20University/LAb231/Submit/HotelBooking/src/java/phuclh/controllers/CheckoutServlet.java</file>
+            <file>file:/D:/FPT%20University/LAb231/Submit/HotelBooking/src/java/phuclh/daos/RoomDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
